@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\bin\Debug\netcoreapp3.1\FromInchesToCentimeters.exe
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\bin\Debug\netcoreapp3.1\FromInchesToCentimeters.deps.json
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\bin\Debug\netcoreapp3.1\FromInchesToCentimeters.runtimeconfig.json
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\bin\Debug\netcoreapp3.1\FromInchesToCentimeters.runtimeconfig.dev.json
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\bin\Debug\netcoreapp3.1\FromInchesToCentimeters.dll
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\bin\Debug\netcoreapp3.1\FromInchesToCentimeters.pdb
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\obj\Debug\netcoreapp3.1\FromInchesToCentimeters.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\obj\Debug\netcoreapp3.1\FromInchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\obj\Debug\netcoreapp3.1\FromInchesToCentimeters.AssemblyInfo.cs
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\obj\Debug\netcoreapp3.1\FromInchesToCentimeters.dll
+C:\Users\User\source\repos\Simple Operations\FromInchesToCentimeters\obj\Debug\netcoreapp3.1\FromInchesToCentimeters.pdb

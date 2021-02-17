@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Checksexercise\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.exe
+C:\Users\User\source\repos\Checksexercise\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.deps.json
+C:\Users\User\source\repos\Checksexercise\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.runtimeconfig.json
+C:\Users\User\source\repos\Checksexercise\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.runtimeconfig.dev.json
+C:\Users\User\source\repos\Checksexercise\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.dll
+C:\Users\User\source\repos\Checksexercise\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.pdb
+C:\Users\User\source\repos\Checksexercise\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Checksexercise\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Checksexercise\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.AssemblyInfo.cs
+C:\Users\User\source\repos\Checksexercise\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.dll
+C:\Users\User\source\repos\Checksexercise\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.pdb

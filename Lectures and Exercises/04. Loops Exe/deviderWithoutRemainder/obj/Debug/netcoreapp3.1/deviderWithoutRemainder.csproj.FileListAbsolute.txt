@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\bin\Debug\netcoreapp3.1\deviderWithoutRemainder.exe
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\bin\Debug\netcoreapp3.1\deviderWithoutRemainder.deps.json
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\bin\Debug\netcoreapp3.1\deviderWithoutRemainder.runtimeconfig.json
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\bin\Debug\netcoreapp3.1\deviderWithoutRemainder.runtimeconfig.dev.json
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\bin\Debug\netcoreapp3.1\deviderWithoutRemainder.dll
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\bin\Debug\netcoreapp3.1\deviderWithoutRemainder.pdb
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\obj\Debug\netcoreapp3.1\deviderWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\obj\Debug\netcoreapp3.1\deviderWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\obj\Debug\netcoreapp3.1\deviderWithoutRemainder.AssemblyInfo.cs
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\obj\Debug\netcoreapp3.1\deviderWithoutRemainder.dll
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\obj\Debug\netcoreapp3.1\deviderWithoutRemainder.pdb
+C:\Users\User\source\repos\forLoopsExe\deviderWithoutRemainder\obj\Debug\netcoreapp3.1\deviderWithoutRemainder.genruntimeconfig.cache

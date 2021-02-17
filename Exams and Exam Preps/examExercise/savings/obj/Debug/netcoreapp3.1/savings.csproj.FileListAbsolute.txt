@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\examExercise\savings\bin\Debug\netcoreapp3.1\savings.exe
+C:\Users\User\source\repos\examExercise\savings\bin\Debug\netcoreapp3.1\savings.deps.json
+C:\Users\User\source\repos\examExercise\savings\bin\Debug\netcoreapp3.1\savings.runtimeconfig.json
+C:\Users\User\source\repos\examExercise\savings\bin\Debug\netcoreapp3.1\savings.runtimeconfig.dev.json
+C:\Users\User\source\repos\examExercise\savings\bin\Debug\netcoreapp3.1\savings.dll
+C:\Users\User\source\repos\examExercise\savings\bin\Debug\netcoreapp3.1\savings.pdb
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.AssemblyInfo.cs
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.dll
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.pdb
+C:\Users\User\source\repos\examExercise\savings\obj\Debug\netcoreapp3.1\savings.genruntimeconfig.cache

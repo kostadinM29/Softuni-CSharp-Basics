@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\complexChecksExercise\volleyball\bin\Debug\netcoreapp3.1\volleyball.exe
+C:\Users\User\source\repos\complexChecksExercise\volleyball\bin\Debug\netcoreapp3.1\volleyball.deps.json
+C:\Users\User\source\repos\complexChecksExercise\volleyball\bin\Debug\netcoreapp3.1\volleyball.runtimeconfig.json
+C:\Users\User\source\repos\complexChecksExercise\volleyball\bin\Debug\netcoreapp3.1\volleyball.runtimeconfig.dev.json
+C:\Users\User\source\repos\complexChecksExercise\volleyball\bin\Debug\netcoreapp3.1\volleyball.dll
+C:\Users\User\source\repos\complexChecksExercise\volleyball\bin\Debug\netcoreapp3.1\volleyball.pdb
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.AssemblyInfo.cs
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.dll
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.pdb
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.genruntimeconfig.cache
+C:\Users\User\source\repos\complexChecksExercise\volleyball\obj\Debug\netcoreapp3.1\volleyball.csprojAssemblyReference.cache

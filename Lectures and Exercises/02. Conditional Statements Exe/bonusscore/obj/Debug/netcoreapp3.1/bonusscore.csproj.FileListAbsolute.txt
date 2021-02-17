@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Checksexercise\bonusscore\bin\Debug\netcoreapp3.1\bonusscore.exe
+C:\Users\User\source\repos\Checksexercise\bonusscore\bin\Debug\netcoreapp3.1\bonusscore.deps.json
+C:\Users\User\source\repos\Checksexercise\bonusscore\bin\Debug\netcoreapp3.1\bonusscore.runtimeconfig.json
+C:\Users\User\source\repos\Checksexercise\bonusscore\bin\Debug\netcoreapp3.1\bonusscore.runtimeconfig.dev.json
+C:\Users\User\source\repos\Checksexercise\bonusscore\bin\Debug\netcoreapp3.1\bonusscore.dll
+C:\Users\User\source\repos\Checksexercise\bonusscore\bin\Debug\netcoreapp3.1\bonusscore.pdb
+C:\Users\User\source\repos\Checksexercise\bonusscore\obj\Debug\netcoreapp3.1\bonusscore.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Checksexercise\bonusscore\obj\Debug\netcoreapp3.1\bonusscore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Checksexercise\bonusscore\obj\Debug\netcoreapp3.1\bonusscore.AssemblyInfo.cs
+C:\Users\User\source\repos\Checksexercise\bonusscore\obj\Debug\netcoreapp3.1\bonusscore.dll
+C:\Users\User\source\repos\Checksexercise\bonusscore\obj\Debug\netcoreapp3.1\bonusscore.pdb

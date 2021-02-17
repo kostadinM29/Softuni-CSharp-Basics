@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\forCycles\characterSequence\bin\Debug\netcoreapp3.1\characterSequence.exe
+C:\Users\User\source\repos\forCycles\characterSequence\bin\Debug\netcoreapp3.1\characterSequence.deps.json
+C:\Users\User\source\repos\forCycles\characterSequence\bin\Debug\netcoreapp3.1\characterSequence.runtimeconfig.json
+C:\Users\User\source\repos\forCycles\characterSequence\bin\Debug\netcoreapp3.1\characterSequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\forCycles\characterSequence\bin\Debug\netcoreapp3.1\characterSequence.dll
+C:\Users\User\source\repos\forCycles\characterSequence\bin\Debug\netcoreapp3.1\characterSequence.pdb
+C:\Users\User\source\repos\forCycles\characterSequence\obj\Debug\netcoreapp3.1\characterSequence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\forCycles\characterSequence\obj\Debug\netcoreapp3.1\characterSequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\forCycles\characterSequence\obj\Debug\netcoreapp3.1\characterSequence.AssemblyInfo.cs
+C:\Users\User\source\repos\forCycles\characterSequence\obj\Debug\netcoreapp3.1\characterSequence.dll
+C:\Users\User\source\repos\forCycles\characterSequence\obj\Debug\netcoreapp3.1\characterSequence.pdb
+C:\Users\User\source\repos\forCycles\characterSequence\obj\Debug\netcoreapp3.1\characterSequence.genruntimeconfig.cache

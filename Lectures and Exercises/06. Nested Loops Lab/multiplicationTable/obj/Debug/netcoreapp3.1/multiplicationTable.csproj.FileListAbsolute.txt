@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.exe
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.deps.json
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.runtimeconfig.json
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.dll
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\bin\Debug\netcoreapp3.1\multiplicationTable.pdb
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.dll
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.pdb
+C:\Users\User\source\repos\nestedCycles\multiplicationTable\obj\Debug\netcoreapp3.1\multiplicationTable.genruntimeconfig.cache

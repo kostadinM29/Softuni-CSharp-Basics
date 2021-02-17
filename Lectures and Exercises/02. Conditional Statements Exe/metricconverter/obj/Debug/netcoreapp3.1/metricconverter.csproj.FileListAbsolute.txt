@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Checksexercise\metricconverter\bin\Debug\netcoreapp3.1\metricconverter.exe
+C:\Users\User\source\repos\Checksexercise\metricconverter\bin\Debug\netcoreapp3.1\metricconverter.deps.json
+C:\Users\User\source\repos\Checksexercise\metricconverter\bin\Debug\netcoreapp3.1\metricconverter.runtimeconfig.json
+C:\Users\User\source\repos\Checksexercise\metricconverter\bin\Debug\netcoreapp3.1\metricconverter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Checksexercise\metricconverter\bin\Debug\netcoreapp3.1\metricconverter.dll
+C:\Users\User\source\repos\Checksexercise\metricconverter\bin\Debug\netcoreapp3.1\metricconverter.pdb
+C:\Users\User\source\repos\Checksexercise\metricconverter\obj\Debug\netcoreapp3.1\metricconverter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Checksexercise\metricconverter\obj\Debug\netcoreapp3.1\metricconverter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Checksexercise\metricconverter\obj\Debug\netcoreapp3.1\metricconverter.AssemblyInfo.cs
+C:\Users\User\source\repos\Checksexercise\metricconverter\obj\Debug\netcoreapp3.1\metricconverter.dll
+C:\Users\User\source\repos\Checksexercise\metricconverter\obj\Debug\netcoreapp3.1\metricconverter.pdb

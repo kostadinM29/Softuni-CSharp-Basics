@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\whileLoopsExe\vacation\bin\Debug\netcoreapp3.1\vacation.exe
+C:\Users\User\source\repos\whileLoopsExe\vacation\bin\Debug\netcoreapp3.1\vacation.deps.json
+C:\Users\User\source\repos\whileLoopsExe\vacation\bin\Debug\netcoreapp3.1\vacation.runtimeconfig.json
+C:\Users\User\source\repos\whileLoopsExe\vacation\bin\Debug\netcoreapp3.1\vacation.runtimeconfig.dev.json
+C:\Users\User\source\repos\whileLoopsExe\vacation\bin\Debug\netcoreapp3.1\vacation.dll
+C:\Users\User\source\repos\whileLoopsExe\vacation\bin\Debug\netcoreapp3.1\vacation.pdb
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.AssemblyInfo.cs
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.dll
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.pdb
+C:\Users\User\source\repos\whileLoopsExe\vacation\obj\Debug\netcoreapp3.1\vacation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.AssemblyInfo.cs
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\bin\Debug\netcoreapp3.1\rightAndLeftSum.exe
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\bin\Debug\netcoreapp3.1\rightAndLeftSum.deps.json
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\bin\Debug\netcoreapp3.1\rightAndLeftSum.runtimeconfig.json
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\bin\Debug\netcoreapp3.1\rightAndLeftSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\bin\Debug\netcoreapp3.1\rightAndLeftSum.dll
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\bin\Debug\netcoreapp3.1\rightAndLeftSum.pdb
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.dll
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.pdb
+C:\Users\User\source\repos\forCycles\rightAndLeftSum\obj\Debug\netcoreapp3.1\rightAndLeftSum.genruntimeconfig.cache

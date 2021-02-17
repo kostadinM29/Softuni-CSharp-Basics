@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\loopsPt2\accountBalance\bin\Debug\netcoreapp3.1\accountBalance.exe
+C:\Users\User\source\repos\loopsPt2\accountBalance\bin\Debug\netcoreapp3.1\accountBalance.deps.json
+C:\Users\User\source\repos\loopsPt2\accountBalance\bin\Debug\netcoreapp3.1\accountBalance.runtimeconfig.json
+C:\Users\User\source\repos\loopsPt2\accountBalance\bin\Debug\netcoreapp3.1\accountBalance.runtimeconfig.dev.json
+C:\Users\User\source\repos\loopsPt2\accountBalance\bin\Debug\netcoreapp3.1\accountBalance.dll
+C:\Users\User\source\repos\loopsPt2\accountBalance\bin\Debug\netcoreapp3.1\accountBalance.pdb
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.csprojAssemblyReference.cache
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.AssemblyInfo.cs
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.dll
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.pdb
+C:\Users\User\source\repos\loopsPt2\accountBalance\obj\Debug\netcoreapp3.1\accountBalance.genruntimeconfig.cache

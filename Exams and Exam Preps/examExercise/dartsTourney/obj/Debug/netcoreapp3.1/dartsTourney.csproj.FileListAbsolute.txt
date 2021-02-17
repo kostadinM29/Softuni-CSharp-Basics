@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.csprojAssemblyReference.cache
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.AssemblyInfo.cs
+C:\Users\User\source\repos\examExercise\dartsTourney\bin\Debug\netcoreapp3.1\dartsTourney.exe
+C:\Users\User\source\repos\examExercise\dartsTourney\bin\Debug\netcoreapp3.1\dartsTourney.deps.json
+C:\Users\User\source\repos\examExercise\dartsTourney\bin\Debug\netcoreapp3.1\dartsTourney.runtimeconfig.json
+C:\Users\User\source\repos\examExercise\dartsTourney\bin\Debug\netcoreapp3.1\dartsTourney.runtimeconfig.dev.json
+C:\Users\User\source\repos\examExercise\dartsTourney\bin\Debug\netcoreapp3.1\dartsTourney.dll
+C:\Users\User\source\repos\examExercise\dartsTourney\bin\Debug\netcoreapp3.1\dartsTourney.pdb
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.dll
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.pdb
+C:\Users\User\source\repos\examExercise\dartsTourney\obj\Debug\netcoreapp3.1\dartsTourney.genruntimeconfig.cache

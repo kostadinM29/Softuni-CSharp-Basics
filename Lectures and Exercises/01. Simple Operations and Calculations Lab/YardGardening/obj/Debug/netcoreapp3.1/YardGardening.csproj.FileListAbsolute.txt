@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Simple Operations\YardGardening\bin\Debug\netcoreapp3.1\YardGardening.exe
+C:\Users\User\source\repos\Simple Operations\YardGardening\bin\Debug\netcoreapp3.1\YardGardening.deps.json
+C:\Users\User\source\repos\Simple Operations\YardGardening\bin\Debug\netcoreapp3.1\YardGardening.runtimeconfig.json
+C:\Users\User\source\repos\Simple Operations\YardGardening\bin\Debug\netcoreapp3.1\YardGardening.runtimeconfig.dev.json
+C:\Users\User\source\repos\Simple Operations\YardGardening\bin\Debug\netcoreapp3.1\YardGardening.dll
+C:\Users\User\source\repos\Simple Operations\YardGardening\bin\Debug\netcoreapp3.1\YardGardening.pdb
+C:\Users\User\source\repos\Simple Operations\YardGardening\obj\Debug\netcoreapp3.1\YardGardening.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Simple Operations\YardGardening\obj\Debug\netcoreapp3.1\YardGardening.AssemblyInfo.cs
+C:\Users\User\source\repos\Simple Operations\YardGardening\obj\Debug\netcoreapp3.1\YardGardening.dll
+C:\Users\User\source\repos\Simple Operations\YardGardening\obj\Debug\netcoreapp3.1\YardGardening.pdb
+C:\Users\User\source\repos\Simple Operations\YardGardening\obj\Debug\netcoreapp3.1\YardGardening.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.exe
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.deps.json
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.runtimeconfig.json
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.runtimeconfig.dev.json
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.dll
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.pdb
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.AssemblyInfo.cs
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.dll
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.pdb
+C:\Users\User\source\repos\UprProstiPresmqtaniq\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.csprojAssemblyReference.cache

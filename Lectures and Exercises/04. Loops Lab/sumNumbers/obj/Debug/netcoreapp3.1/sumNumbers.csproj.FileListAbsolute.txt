@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\forCycles\sumNumbers\bin\Debug\netcoreapp3.1\sumNumbers.exe
+C:\Users\User\source\repos\forCycles\sumNumbers\bin\Debug\netcoreapp3.1\sumNumbers.deps.json
+C:\Users\User\source\repos\forCycles\sumNumbers\bin\Debug\netcoreapp3.1\sumNumbers.runtimeconfig.json
+C:\Users\User\source\repos\forCycles\sumNumbers\bin\Debug\netcoreapp3.1\sumNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\forCycles\sumNumbers\bin\Debug\netcoreapp3.1\sumNumbers.dll
+C:\Users\User\source\repos\forCycles\sumNumbers\bin\Debug\netcoreapp3.1\sumNumbers.pdb
+C:\Users\User\source\repos\forCycles\sumNumbers\obj\Debug\netcoreapp3.1\sumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\forCycles\sumNumbers\obj\Debug\netcoreapp3.1\sumNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\forCycles\sumNumbers\obj\Debug\netcoreapp3.1\sumNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\forCycles\sumNumbers\obj\Debug\netcoreapp3.1\sumNumbers.dll
+C:\Users\User\source\repos\forCycles\sumNumbers\obj\Debug\netcoreapp3.1\sumNumbers.pdb
+C:\Users\User\source\repos\forCycles\sumNumbers\obj\Debug\netcoreapp3.1\sumNumbers.genruntimeconfig.cache

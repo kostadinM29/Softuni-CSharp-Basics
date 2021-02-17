@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\bin\Debug\netcoreapp3.1\hotelRoom.exe
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\bin\Debug\netcoreapp3.1\hotelRoom.deps.json
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\bin\Debug\netcoreapp3.1\hotelRoom.runtimeconfig.json
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\bin\Debug\netcoreapp3.1\hotelRoom.runtimeconfig.dev.json
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\bin\Debug\netcoreapp3.1\hotelRoom.dll
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\bin\Debug\netcoreapp3.1\hotelRoom.pdb
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.AssemblyInfo.cs
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.dll
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.pdb
+C:\Users\User\source\repos\complexChecksExercise\hotelRoom\obj\Debug\netcoreapp3.1\hotelRoom.genruntimeconfig.cache

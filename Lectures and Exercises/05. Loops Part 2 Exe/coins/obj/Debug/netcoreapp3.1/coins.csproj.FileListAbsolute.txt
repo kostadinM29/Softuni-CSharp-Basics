@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\whileLoopsExe\coins\bin\Debug\netcoreapp3.1\coins.exe
+C:\Users\User\source\repos\whileLoopsExe\coins\bin\Debug\netcoreapp3.1\coins.deps.json
+C:\Users\User\source\repos\whileLoopsExe\coins\bin\Debug\netcoreapp3.1\coins.runtimeconfig.json
+C:\Users\User\source\repos\whileLoopsExe\coins\bin\Debug\netcoreapp3.1\coins.runtimeconfig.dev.json
+C:\Users\User\source\repos\whileLoopsExe\coins\bin\Debug\netcoreapp3.1\coins.dll
+C:\Users\User\source\repos\whileLoopsExe\coins\bin\Debug\netcoreapp3.1\coins.pdb
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.csprojAssemblyReference.cache
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.AssemblyInfo.cs
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.dll
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.pdb
+C:\Users\User\source\repos\whileLoopsExe\coins\obj\Debug\netcoreapp3.1\coins.genruntimeconfig.cache

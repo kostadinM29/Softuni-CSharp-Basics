@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ComplesChecks\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.exe
+C:\Users\User\source\repos\ComplesChecks\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.deps.json
+C:\Users\User\source\repos\ComplesChecks\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.runtimeconfig.json
+C:\Users\User\source\repos\ComplesChecks\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\ComplesChecks\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.dll
+C:\Users\User\source\repos\ComplesChecks\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.pdb
+C:\Users\User\source\repos\ComplesChecks\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ComplesChecks\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ComplesChecks\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.AssemblyInfo.cs
+C:\Users\User\source\repos\ComplesChecks\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.dll
+C:\Users\User\source\repos\ComplesChecks\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\bin\Debug\netcoreapp3.1\TextileWorkshop.exe
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\bin\Debug\netcoreapp3.1\TextileWorkshop.deps.json
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\bin\Debug\netcoreapp3.1\TextileWorkshop.runtimeconfig.json
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\bin\Debug\netcoreapp3.1\TextileWorkshop.runtimeconfig.dev.json
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\bin\Debug\netcoreapp3.1\TextileWorkshop.dll
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\bin\Debug\netcoreapp3.1\TextileWorkshop.pdb
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\obj\Debug\netcoreapp3.1\TextileWorkshop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\obj\Debug\netcoreapp3.1\TextileWorkshop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\obj\Debug\netcoreapp3.1\TextileWorkshop.AssemblyInfo.cs
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\obj\Debug\netcoreapp3.1\TextileWorkshop.dll
+C:\Users\User\source\repos\UprProstiPresmqtaniq\TextileWorkshop\obj\Debug\netcoreapp3.1\TextileWorkshop.pdb

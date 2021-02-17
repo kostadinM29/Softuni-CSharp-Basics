@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Checksexercise\time15minutes\bin\Debug\netcoreapp3.1\time15minutes.exe
+C:\Users\User\source\repos\Checksexercise\time15minutes\bin\Debug\netcoreapp3.1\time15minutes.deps.json
+C:\Users\User\source\repos\Checksexercise\time15minutes\bin\Debug\netcoreapp3.1\time15minutes.runtimeconfig.json
+C:\Users\User\source\repos\Checksexercise\time15minutes\bin\Debug\netcoreapp3.1\time15minutes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Checksexercise\time15minutes\bin\Debug\netcoreapp3.1\time15minutes.dll
+C:\Users\User\source\repos\Checksexercise\time15minutes\bin\Debug\netcoreapp3.1\time15minutes.pdb
+C:\Users\User\source\repos\Checksexercise\time15minutes\obj\Debug\netcoreapp3.1\time15minutes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Checksexercise\time15minutes\obj\Debug\netcoreapp3.1\time15minutes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Checksexercise\time15minutes\obj\Debug\netcoreapp3.1\time15minutes.AssemblyInfo.cs
+C:\Users\User\source\repos\Checksexercise\time15minutes\obj\Debug\netcoreapp3.1\time15minutes.dll
+C:\Users\User\source\repos\Checksexercise\time15minutes\obj\Debug\netcoreapp3.1\time15minutes.pdb

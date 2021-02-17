@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\bin\Debug\netcoreapp3.1\oddEvenPosition.exe
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\bin\Debug\netcoreapp3.1\oddEvenPosition.deps.json
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\bin\Debug\netcoreapp3.1\oddEvenPosition.runtimeconfig.json
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\bin\Debug\netcoreapp3.1\oddEvenPosition.runtimeconfig.dev.json
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\bin\Debug\netcoreapp3.1\oddEvenPosition.dll
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\bin\Debug\netcoreapp3.1\oddEvenPosition.pdb
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.csprojAssemblyReference.cache
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.AssemblyInfo.cs
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.dll
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.pdb
+C:\Users\User\source\repos\forLoopsExe\oddEvenPosition\obj\Debug\netcoreapp3.1\oddEvenPosition.genruntimeconfig.cache

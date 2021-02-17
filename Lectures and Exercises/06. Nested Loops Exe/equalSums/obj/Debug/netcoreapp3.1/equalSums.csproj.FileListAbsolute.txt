@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\bin\Debug\netcoreapp3.1\equalSums.exe
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\bin\Debug\netcoreapp3.1\equalSums.deps.json
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\bin\Debug\netcoreapp3.1\equalSums.runtimeconfig.json
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\bin\Debug\netcoreapp3.1\equalSums.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\bin\Debug\netcoreapp3.1\equalSums.dll
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\bin\Debug\netcoreapp3.1\equalSums.pdb
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\obj\Debug\netcoreapp3.1\equalSums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\obj\Debug\netcoreapp3.1\equalSums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\obj\Debug\netcoreapp3.1\equalSums.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\obj\Debug\netcoreapp3.1\equalSums.dll
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\obj\Debug\netcoreapp3.1\equalSums.pdb
+C:\Users\User\source\repos\nestedCyclesExe\equalSums\obj\Debug\netcoreapp3.1\equalSums.genruntimeconfig.cache

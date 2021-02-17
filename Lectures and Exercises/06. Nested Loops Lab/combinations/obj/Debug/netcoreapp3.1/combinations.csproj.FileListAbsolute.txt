@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\nestedCycles\combinations\bin\Debug\netcoreapp3.1\combinations.exe
+C:\Users\User\source\repos\nestedCycles\combinations\bin\Debug\netcoreapp3.1\combinations.deps.json
+C:\Users\User\source\repos\nestedCycles\combinations\bin\Debug\netcoreapp3.1\combinations.runtimeconfig.json
+C:\Users\User\source\repos\nestedCycles\combinations\bin\Debug\netcoreapp3.1\combinations.runtimeconfig.dev.json
+C:\Users\User\source\repos\nestedCycles\combinations\bin\Debug\netcoreapp3.1\combinations.dll
+C:\Users\User\source\repos\nestedCycles\combinations\bin\Debug\netcoreapp3.1\combinations.pdb
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.AssemblyInfo.cs
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.dll
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.pdb
+C:\Users\User\source\repos\nestedCycles\combinations\obj\Debug\netcoreapp3.1\combinations.genruntimeconfig.cache

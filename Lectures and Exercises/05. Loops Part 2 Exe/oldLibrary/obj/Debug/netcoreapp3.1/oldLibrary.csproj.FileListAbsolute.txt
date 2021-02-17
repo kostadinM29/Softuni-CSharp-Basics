@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\bin\Debug\netcoreapp3.1\oldLibrary.exe
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\bin\Debug\netcoreapp3.1\oldLibrary.deps.json
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\bin\Debug\netcoreapp3.1\oldLibrary.runtimeconfig.json
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\bin\Debug\netcoreapp3.1\oldLibrary.runtimeconfig.dev.json
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\bin\Debug\netcoreapp3.1\oldLibrary.dll
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\bin\Debug\netcoreapp3.1\oldLibrary.pdb
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.dll
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.pdb
+C:\Users\User\source\repos\whileLoopsExe\oldLibrary\obj\Debug\netcoreapp3.1\oldLibrary.genruntimeconfig.cache
